@@ -11,3 +11,4 @@ Things which I learned till now.
 1. Git
 1. GitHub
 1. VS Code
+1. Netlify
